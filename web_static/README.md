@@ -14,7 +14,11 @@ Google Chrome 56 or More
 ### Installing
 
 No installation is needed. Download the project on your personal computer.
-Clone repository making git clone https://github.com/ilasso/AirBnB_clone.git.
+Clone repository making :
+
+```
+git clone https://github.com/ilasso/AirBnB_clone.git.
+```
 
 ## Running
 
