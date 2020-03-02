@@ -24,7 +24,6 @@ git clone https://github.com/ilasso/AirBnB_clone.git.
 
 Run 8-index.html in Goolgle Chrome.
 
-```
 
 **Example:**
 ```
